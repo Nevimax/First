@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">First</string>
+    <string name="hello_user">Привет пользователь</string>
+    <string name="text_of_button">Определить текст</string>
+    <string-array name="colors">
+        <item>красный</item>
+        <item>зеленый</item>
+        <item>оранжевый</item>
+        <item>голубой</item>
+        <item>желтый</item>
+    </string-array>
+
+    <string-array name="description_of_temp">
+        <item>красный - стремление к успеху</item>
+        <item>зеленый - цвет природы</item>
+        <item>оранжевый - незаурядная интуиция</item>
+        <item>голубой - впесатлительность</item>
+        <item>желтый - святящийся и теплый</item>
+    </string-array>
 </resources>
